@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Satya Murali!
 
-## 🚀 Aspiring AI Developer, Current Master's Student, and 📚 AI Enthusiast
+## 🚀 Applied AI Engineer | Generative AI & Agentic Systems Enthusiast
 
 📍 **Location:** Arizona, USA  
 📧 **Email:** [satyamuralikrishna13@gmail.com](mailto:satyamuralikrishna13@gmail.com)  
@@ -9,19 +9,25 @@
 📞 **Contact:** [+1520-283-5536](https://wa.me/15202835536)
 
 ### About Me 🌐
-With over 3 years of experience in Software Development, Machine Learning, Natural Language Processing, and Generative AI, I am passionate about leveraging AI to create innovative solutions.
+I’m an Applied Full-Stack AI/ML Engineer with 4+ years of experience designing and deploying production-grade AI systems. My work spans Generative AI, Agentic Application Flow Development, Machine Learning, and Scalable Data Engineering.
+
+I’m passionate about building modular microservices, leveraging LLMs with RAG pipelines, and researching bias quantification, explainability, and ethical AI adoption to make intelligent systems both reliable and trustworthy.
 
 ### Professional Highlights 🌟
-- **Data Scientist** - Abzooba, India (May 2021 - July 2024)
-- **Software Developer Intern** - LAR, India (Aug 2020 - Jan 2021)
+- **DCC - Research Assistant** - Univeristy of Arizona (May 2025 - current)
+- **Data Scientist** - Capital Group(via Abzooba Info Tech) (May 2021 - July 2024)
+- **Software Developer** -  LAR (Stealth Startup) (Aug 2020 - Jan 2021)
+- **Software Developer Intern** - Chamber of Products, Lagaland LLP (May 2020 - Jul 2021)
 
 ### Tech Toolbox 🛠️
-- **Languages:** Python, Dart
+- **Languages:** Python, C++, Dart
 - **Databases:** SQL, MongoDB, Firebase, Vector Databases (Chroma, Azure Search Services)
+- **Data Science:** PyTorch, Hugging Face, Transformers,Scikit-learn, Keras, NLP, Deep Learning
+- **Generative AI:** RAG Pipelines, Prompt Engineering, Agentic AI Workflows, Langchain, Streamlit
 - **Cloud Platforms:** Google Cloud Platform, Azure, AWS (basic knowledge)
-- **Tools:** Docker, Git, BigQuery, Postman
-- **Frameworks & Libraries:** Langchain, Streamlit, Hugging Face, Selenium
-- **Specialties:** Web Development, API Development, Large Language Models, Generative AI, NLP, Dashboarding
+- **Misc & Tools:** Docker, Git, BigQuery, Postman, Selenium
+- **Specialties:**  Agentic AI Workflows, Large Language Models, Generative AI, NLP, Web Development, API Development, Dashboarding
+
 
 ### Education 🎓
 - **Masters in Information Sciences Specilization in Machine Learning**, University of Arizona (2023-2025)
@@ -34,20 +40,3 @@ With over 3 years of experience in Software Development, Machine Learning, Natur
 
 ### Current Projects 🔭
 Working on developing a metric to assess bias and social intelligence in large language models.
-
-
-
-<!--
-**vsatyamuralikrishna/vsatyamuralikrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
